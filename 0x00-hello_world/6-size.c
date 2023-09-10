@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - main function
- *
- * Return: 0 on success
+ * main - print the size of various typesa based on
+ * the computer it is compiled and run on..
+ * Return: Always 0.
  */
 
 int main(void)
